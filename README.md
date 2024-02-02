@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://x.com/Ajking015271681?t=RwinQyN8KUVsJVDEVrjkQQ&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/ajay?logo=twitter&style=for-the-badge" alt="ajay" /></a> </p>
 
-- 🌱 I’m currently learning **Advanced concepts in React & Node js**
+- 🌱 I’m currently learning **Advanced concepts in React **
 
 - 💬 Ask me about **php, react, html, css**
 
